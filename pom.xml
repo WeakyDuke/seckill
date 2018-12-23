@@ -95,60 +95,60 @@
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-core</artifactId>
-      <!--<version>4.3.10.RELEASE</version>-->
-      <version>5.0.4.RELEASE</version>
+      <version>4.3.10.RELEASE</version>
+      <!--<version>5.0.4.RELEASE</version>-->
       <!--<version>5.0.8.RELEASE</version>-->
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-beans</artifactId>
-      <!--<version>4.3.10.RELEASE</version>-->
-      <version>5.0.4.RELEASE</version>
+      <version>4.3.10.RELEASE</version>
+      <!--<version>5.0.4.RELEASE</version>-->
       <!--<version>5.0.8.RELEASE</version>-->
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-context</artifactId>
-      <!--<version>4.3.10.RELEASE</version>-->
-      <version>5.0.4.RELEASE</version>
+      <version>4.3.10.RELEASE</version>
+      <!--<version>5.0.4.RELEASE</version>-->
       <!--<version>5.0.8.RELEASE</version>-->
     </dependency>
     <!-- 2)spring dao层依赖-->
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-jdbc</artifactId>
-      <!--<version>4.3.10.RELEASE</version>-->
-      <version>5.0.4.RELEASE</version>
+      <version>4.3.10.RELEASE</version>
+      <!--<version>5.0.4.RELEASE</version>-->
       <!--<version>5.0.8.RELEASE</version>-->
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-tx</artifactId>
-      <!--<version>4.3.10.RELEASE</version>-->
-      <version>5.0.4.RELEASE</version>
+      <version>4.3.10.RELEASE</version>
+      <!--<version>5.0.4.RELEASE</version>-->
       <!--<version>5.0.8.RELEASE</version>-->
     </dependency>
     <!-- 3)spring web相关依赖-->
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-web</artifactId>
-      <!--<version>4.3.10.RELEASE</version>-->
-      <version>5.0.4.RELEASE</version>
+      <version>4.3.10.RELEASE</version>
+      <!--<version>5.0.4.RELEASE</version>-->
       <!--<version>5.0.8.RELEASE</version>-->
     </dependency>
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-webmvc</artifactId>
-      <!--<version>4.3.10.RELEASE</version>-->
-      <version>5.0.4.RELEASE</version>
+      <version>4.3.10.RELEASE</version>
+      <!--<version>5.0.4.RELEASE</version>-->
       <!--<version>5.0.8.RELEASE</version>-->
     </dependency>
     <!-- spring test相关依赖-->
     <dependency>
       <groupId>org.springframework</groupId>
       <artifactId>spring-test</artifactId>
-      <!--<version>4.3.10.RELEASE</version>-->
-      <version>5.0.4.RELEASE</version>
+      <version>4.3.10.RELEASE</version>
+      <!--<version>5.0.4.RELEASE</version>-->
       <!--<version>5.0.8.RELEASE</version>-->
     </dependency>
   </dependencies>
